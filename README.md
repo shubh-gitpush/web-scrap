@@ -44,8 +44,8 @@ Navigate to the Django backend directory:
 
 
 ## Screenshots
-<img src="react-front-end-2.png" alt="Frontend Screenshot" width="800">
-<img src="django rest framework screenshot.png" alt="Frontend Screenshot" width="800">
+<img src="react front end 2.png" alt="Frontend Screenshot" width="800">
+<img src="django rest framework screenshot 2.png" alt="Frontend Screenshot" width="800">
 
 ```bash
 cd D:\intern\web_scrapping\scrap\scrap\spiders\scrapper\django\product_api
