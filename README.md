@@ -40,6 +40,12 @@ Welcome to the **Web Scraping Product Display** project! This is a full-stack ap
 
 Navigate to the Django backend directory:
 
+
+
+
+## Screenshots
+<img src='
+
 ```bash
 cd D:\intern\web_scrapping\scrap\scrap\spiders\scrapper\django\product_api
 
@@ -111,3 +117,8 @@ Install Node dependencies:
 
 
 npm install
+
+
+
+
+
